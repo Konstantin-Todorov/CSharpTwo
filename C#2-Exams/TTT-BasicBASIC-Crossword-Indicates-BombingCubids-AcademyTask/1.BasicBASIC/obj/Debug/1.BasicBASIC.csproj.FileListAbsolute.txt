@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\1.BasicBASIC\bin\Debug\1.BasicBASIC.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\1.BasicBASIC\bin\Debug\1.BasicBASIC.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\1.BasicBASIC\bin\Debug\1.BasicBASIC.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\1.BasicBASIC\obj\Debug\1.BasicBASIC.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\1.BasicBASIC\obj\Debug\1.BasicBASIC.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\1.BasicBASIC\obj\Debug\1.BasicBASIC.pdb

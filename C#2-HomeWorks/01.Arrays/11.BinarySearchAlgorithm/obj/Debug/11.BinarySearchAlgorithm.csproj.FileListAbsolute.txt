@@ -1,6 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.pdb

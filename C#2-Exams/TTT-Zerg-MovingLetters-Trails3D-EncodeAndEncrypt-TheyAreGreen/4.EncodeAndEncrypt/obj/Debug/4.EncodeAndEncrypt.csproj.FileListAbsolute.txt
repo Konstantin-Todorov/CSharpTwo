@@ -1,5 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\4.EncodeAndEncrypt\bin\Debug\4.EncodeAndEncrypt.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\4.EncodeAndEncrypt\bin\Debug\4.EncodeAndEncrypt.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\4.EncodeAndEncrypt\bin\Debug\4.EncodeAndEncrypt.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\4.EncodeAndEncrypt\obj\Debug\4.EncodeAndEncrypt.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\4.EncodeAndEncrypt\obj\Debug\4.EncodeAndEncrypt.pdb

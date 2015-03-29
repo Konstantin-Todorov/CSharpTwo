@@ -1,9 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\3.Employee\obj\Debug\3.Employee.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\3.Employee\bin\Debug\3.Employee.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\3.Employee\bin\Debug\3.Employee.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\3.Employee\bin\Debug\3.Employee.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\3.Employee\obj\Debug\3.Employee.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\3.Employee\obj\Debug\3.Employee.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-CSharpCleanCode-Sudoko-Employee-MaxWalks3D-Liquids\3.Employee\bin\Debug\3.Employee.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-CSharpCleanCode-Sudoko-Employee-MaxWalks3D-Liquids\3.Employee\obj\Debug\3.Employee.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-CSharpCleanCode-Sudoko-Employee-MaxWalks3D-Liquids\3.Employee\obj\Debug\3.Employee.pdb

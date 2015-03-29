@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

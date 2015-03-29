@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

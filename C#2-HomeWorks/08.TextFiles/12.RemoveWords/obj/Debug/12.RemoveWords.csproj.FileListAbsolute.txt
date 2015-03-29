@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.pdb

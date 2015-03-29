@@ -1,9 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\8 Feb 2012\01BASIC\bin\Debug\01BASIC.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\8 Feb 2012\01BASIC\bin\Debug\01BASIC.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\8 Feb 2012\01BASIC\bin\Debug\01BASIC.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\8 Feb 2012\01BASIC\obj\Debug\1.BASIC.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\8 Feb 2012\01BASIC\obj\Debug\01BASIC.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\8 Feb 2012\01BASIC\obj\Debug\01BASIC.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicLanguage-MessageInbottle-Cooking-3DSlice-SecretLanguage\01BASIC\bin\Debug\01BASIC.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicLanguage-MessageInbottle-Cooking-3DSlice-SecretLanguage\01BASIC\obj\Debug\01BASIC.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicLanguage-MessageInbottle-Cooking-3DSlice-SecretLanguage\01BASIC\obj\Debug\01BASIC.pdb

@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb

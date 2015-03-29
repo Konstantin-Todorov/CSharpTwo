@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.pdb

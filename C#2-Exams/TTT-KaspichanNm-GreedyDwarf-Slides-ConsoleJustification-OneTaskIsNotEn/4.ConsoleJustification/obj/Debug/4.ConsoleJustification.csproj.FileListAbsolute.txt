@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\4.ConsoleJustification\obj\Debug\4.ConsoleJustification.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\4.ConsoleJustification\bin\Debug\4.ConsoleJustification.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\4.ConsoleJustification\bin\Debug\4.ConsoleJustification.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\4.ConsoleJustification\bin\Debug\4.ConsoleJustification.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\4.ConsoleJustification\obj\Debug\4.ConsoleJustification.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\4.ConsoleJustification\obj\Debug\4.ConsoleJustification.pdb

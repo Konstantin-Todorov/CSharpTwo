@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.pdb

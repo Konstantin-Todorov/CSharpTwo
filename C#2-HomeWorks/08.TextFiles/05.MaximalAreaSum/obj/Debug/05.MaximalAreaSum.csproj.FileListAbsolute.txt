@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.pdb

@@ -1,5 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\3.Indicates\bin\Debug\3.Indicates.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\3.Indicates\bin\Debug\3.Indicates.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\3.Indicates\bin\Debug\3.Indicates.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\3.Indicates\obj\Debug\3.Indicates.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\3.Indicates\obj\Debug\3.Indicates.pdb

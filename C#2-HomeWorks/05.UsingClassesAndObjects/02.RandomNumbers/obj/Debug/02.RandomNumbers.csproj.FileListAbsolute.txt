@@ -1,5 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\02.RandomNumbers\bin\Debug\02.RandomNumbers.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\02.RandomNumbers\obj\Debug\02.RandomNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\02.RandomNumbers\obj\Debug\02.RandomNumbers.pdb

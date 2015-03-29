@@ -1,6 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.csprojResolveAssemblyReference.cache
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.pdb

@@ -1,1 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\10.FindSequanceByGivenSum\bin\Debug\10.FindSequanceByGivenSum.exe.config

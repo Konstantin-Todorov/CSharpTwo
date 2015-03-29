@@ -1,8 +1,0 @@
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\04.NumeralSystem\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\04.NumeralSystem\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\04.NumeralSystem\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb

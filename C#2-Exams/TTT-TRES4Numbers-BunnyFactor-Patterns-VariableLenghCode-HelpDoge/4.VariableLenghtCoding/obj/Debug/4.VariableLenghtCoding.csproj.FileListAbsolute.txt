@@ -1,6 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\22-01-2014\4.VariableLenghtCoding\bin\Debug\4.VariableLenghtCoding.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\22-01-2014\4.VariableLenghtCoding\bin\Debug\4.VariableLenghtCoding.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\22-01-2014\4.VariableLenghtCoding\bin\Debug\4.VariableLenghtCoding.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\22-01-2014\4.VariableLenghtCoding\obj\Debug\4.VariableLenghtCoding.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\22-01-2014\4.VariableLenghtCoding\obj\Debug\4.VariableLenghtCoding.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\22-01-2014\4.VariableLenghtCoding\obj\Debug\4.VariableLenghtCoding.csprojResolveAssemblyReference.cache

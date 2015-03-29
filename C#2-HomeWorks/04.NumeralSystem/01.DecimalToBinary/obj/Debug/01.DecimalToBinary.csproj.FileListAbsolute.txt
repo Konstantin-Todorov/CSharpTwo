@@ -1,9 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\NumeralSystem\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\04.NumeralSystem\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\04.NumeralSystem\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\04.NumeralSystem\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb

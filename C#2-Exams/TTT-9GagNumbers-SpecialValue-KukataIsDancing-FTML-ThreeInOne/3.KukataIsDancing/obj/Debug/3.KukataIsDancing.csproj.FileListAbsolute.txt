@@ -1,9 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\3.KukataIsDancing\bin\Debug\3.KukataIsDancing.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\3.KukataIsDancing\bin\Debug\3.KukataIsDancing.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\3.KukataIsDancing\bin\Debug\3.KukataIsDancing.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-9GagNumbers-SpecialValue-KukataIsDancing-FTML-ThreeInOne\3.KukataIsDancing\bin\Debug\3.KukataIsDancing.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-9GagNumbers-SpecialValue-KukataIsDancing-FTML-ThreeInOne\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-9GagNumbers-SpecialValue-KukataIsDancing-FTML-ThreeInOne\3.KukataIsDancing\obj\Debug\3.KukataIsDancing.pdb

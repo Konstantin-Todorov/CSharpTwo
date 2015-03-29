@@ -1,1 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\14.QuickSortAlgorithm\bin\Debug\14.QuickSortAlgorithm.exe.config

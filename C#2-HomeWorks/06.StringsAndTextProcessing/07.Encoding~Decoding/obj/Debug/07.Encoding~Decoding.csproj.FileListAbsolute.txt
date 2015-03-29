@@ -1,6 +1,0 @@
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\07.Encoding~Decoding\bin\Debug\07.Encoding~Decoding.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\07.Encoding~Decoding\bin\Debug\07.Encoding~Decoding.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\07.Encoding~Decoding\bin\Debug\07.Encoding~Decoding.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\07.Encoding~Decoding\obj\Debug\07.Encoding~Decoding.csprojResolveAssemblyReference.cache
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\07.Encoding~Decoding\obj\Debug\07.Encoding~Decoding.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\07.Encoding~Decoding\obj\Debug\07.Encoding~Decoding.pdb

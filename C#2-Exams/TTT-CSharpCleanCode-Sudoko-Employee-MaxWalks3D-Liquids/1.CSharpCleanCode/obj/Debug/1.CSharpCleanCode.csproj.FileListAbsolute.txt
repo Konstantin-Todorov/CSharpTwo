@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\1.CSharpCleanCode\bin\Debug\1.CSharpCleanCode.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\1.CSharpCleanCode\bin\Debug\1.CSharpCleanCode.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\1.CSharpCleanCode\bin\Debug\1.CSharpCleanCode.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\1.CSharpCleanCode\obj\Debug\1.CSharpCleanCode.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\1.CSharpCleanCode\obj\Debug\1.CSharpCleanCode.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\1.CSharpCleanCode\obj\Debug\1.CSharpCleanCode.pdb

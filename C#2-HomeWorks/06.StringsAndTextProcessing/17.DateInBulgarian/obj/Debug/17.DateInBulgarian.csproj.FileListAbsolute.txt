@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.pdb

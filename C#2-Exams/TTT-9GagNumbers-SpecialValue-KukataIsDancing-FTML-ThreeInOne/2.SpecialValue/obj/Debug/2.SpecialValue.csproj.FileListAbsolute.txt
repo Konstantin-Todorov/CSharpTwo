@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\2.SpecialValue\bin\Debug\2.SpecialValue.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\2.SpecialValue\bin\Debug\2.SpecialValue.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\2.SpecialValue\bin\Debug\2.SpecialValue.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\2.SpecialValue\obj\Debug\2.SpecialValue.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\2.SpecialValue\obj\Debug\2.SpecialValue.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\2.SpecialValue\obj\Debug\2.SpecialValue.pdb

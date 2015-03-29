@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\1.Zerg\bin\Debug\1.Zerg.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\1.Zerg\bin\Debug\1.Zerg.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\1.Zerg\bin\Debug\1.Zerg.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\1.Zerg\obj\Debug\1.Zerg.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\1.Zerg\obj\Debug\1.Zerg.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\14-Sep-2013\1.Zerg\obj\Debug\1.Zerg.pdb

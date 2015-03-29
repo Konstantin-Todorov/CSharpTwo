@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.pdb

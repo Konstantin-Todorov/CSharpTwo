@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.pdb

@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\04.BinarySearch\obj\Debug\04.BinarySearch.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\04.BinarySearch\obj\Debug\04.BinarySearch.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\04.BinarySearch\obj\Debug\04.BinarySearch.pdb

@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.pdb

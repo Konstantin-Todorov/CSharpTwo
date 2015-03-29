@@ -1,6 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\10.NFactorial\bin\Debug\10.NFactorial.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\10.NFactorial\bin\Debug\10.NFactorial.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\10.NFactorial\bin\Debug\10.NFactorial.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\10.NFactorial\obj\Debug\10.NFactorial.csprojResolveAssemblyReference.cache
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\10.NFactorial\obj\Debug\10.NFactorial.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\10.NFactorial\obj\Debug\10.NFactorial.pdb

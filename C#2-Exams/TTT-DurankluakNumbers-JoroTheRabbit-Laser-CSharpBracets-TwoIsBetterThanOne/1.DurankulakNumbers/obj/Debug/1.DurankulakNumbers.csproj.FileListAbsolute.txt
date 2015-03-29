@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\1.DurankulakNumbers\bin\Debug\1.DurankulakNumbers.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\1.DurankulakNumbers\bin\Debug\1.DurankulakNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\1.DurankulakNumbers\bin\Debug\1.DurankulakNumbers.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\1.DurankulakNumbers\obj\Debug\1.DurankulakNumbers.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\1.DurankulakNumbers\obj\Debug\1.DurankulakNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\1.DurankulakNumbers\obj\Debug\1.DurankulakNumbers.pdb

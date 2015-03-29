@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\01.SayHello\bin\Debug\01.SayHello.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\01.SayHello\bin\Debug\01.SayHello.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\01.SayHello\bin\Debug\01.SayHello.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\01.SayHello\obj\Debug\01.SayHello.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\01.SayHello\obj\Debug\01.SayHello.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\01.SayHello\obj\Debug\01.SayHello.pdb

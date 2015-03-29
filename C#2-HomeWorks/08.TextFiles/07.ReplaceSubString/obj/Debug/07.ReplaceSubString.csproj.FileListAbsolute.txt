@@ -1,6 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.csprojResolveAssemblyReference.cache
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.pdb

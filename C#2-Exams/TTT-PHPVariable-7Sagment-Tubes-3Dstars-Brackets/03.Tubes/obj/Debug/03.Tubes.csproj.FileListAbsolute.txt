@@ -1,8 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\6-Feb-2012\03.Tubes\bin\Debug\03.Tubes.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\6-Feb-2012\03.Tubes\bin\Debug\03.Tubes.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\6-Feb-2012\03.Tubes\bin\Debug\03.Tubes.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\6-Feb-2012\03.Tubes\obj\Debug\03.Tubes.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\6-Feb-2012\03.Tubes\obj\Debug\03.Tubes.pdb
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-PHPVariable-7Sagment-Tubes-3Dstars-Brackets\03.Tubes\bin\Debug\03.Tubes.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-PHPVariable-7Sagment-Tubes-3Dstars-Brackets\03.Tubes\obj\Debug\03.Tubes.exe
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-PHPVariable-7Sagment-Tubes-3Dstars-Brackets\03.Tubes\obj\Debug\03.Tubes.pdb

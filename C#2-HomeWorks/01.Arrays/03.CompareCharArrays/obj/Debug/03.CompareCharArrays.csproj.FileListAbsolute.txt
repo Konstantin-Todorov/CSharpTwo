@@ -1,2 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe.config

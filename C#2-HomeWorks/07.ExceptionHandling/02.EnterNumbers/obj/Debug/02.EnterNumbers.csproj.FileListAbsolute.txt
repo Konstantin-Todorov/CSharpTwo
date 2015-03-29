@@ -1,6 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
-c:\users\buldozer\documents\visual studio 2013\Projects\ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

@@ -1,2 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
-C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config

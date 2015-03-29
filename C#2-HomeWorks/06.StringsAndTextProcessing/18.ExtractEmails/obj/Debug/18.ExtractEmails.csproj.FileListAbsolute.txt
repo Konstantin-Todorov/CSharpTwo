@@ -1,6 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.csprojResolveAssemblyReference.cache
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.pdb

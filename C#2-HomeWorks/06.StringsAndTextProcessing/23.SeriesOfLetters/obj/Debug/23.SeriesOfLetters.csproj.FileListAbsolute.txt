@@ -1,5 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.pdb
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.pdb

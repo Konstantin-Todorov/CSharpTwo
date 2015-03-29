@@ -1,3 +1,0 @@
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\11.AddingPolinomyals\bin\Debug\11.AddingPolinomyals.exe.config
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\11.AddingPolinomyals\obj\Debug\11.AddingPolinomyals.exe
-C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\11.AddingPolinomyals\obj\Debug\11.AddingPolinomyals.pdb

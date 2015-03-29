@@ -1,5 +1,0 @@
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe.config
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.pdb
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.exe
-c:\users\buldozer\documents\visual studio 2013\Projects\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.pdb
