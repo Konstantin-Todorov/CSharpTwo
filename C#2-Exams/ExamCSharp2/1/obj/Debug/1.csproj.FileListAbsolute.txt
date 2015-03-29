@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1\bin\Debug\1.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1\obj\Debug\1.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1\obj\Debug\1.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1\bin\Debug\1.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1\bin\Debug\1.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1\obj\Debug\1.csprojResolveAssemblyReference.cache

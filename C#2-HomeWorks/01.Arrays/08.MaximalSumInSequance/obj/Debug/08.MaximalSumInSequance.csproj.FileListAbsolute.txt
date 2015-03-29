@@ -1,0 +1,1 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\08.MaximalSumInSequance\bin\Debug\08.MaximalSumInSequance.exe.config

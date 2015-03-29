@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\14.WordDictionary\obj\Debug\14.WordDictionary.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\14.WordDictionary\obj\Debug\14.WordDictionary.pdb

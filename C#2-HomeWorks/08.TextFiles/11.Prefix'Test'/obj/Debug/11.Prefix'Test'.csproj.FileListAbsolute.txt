@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\11.Prefix'Test'\bin\Debug\11.Prefix'Test'.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\11.Prefix'Test'\bin\Debug\11.Prefix'Test'.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\11.Prefix'Test'\bin\Debug\11.Prefix'Test'.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\11.Prefix'Test'\obj\Debug\11.Prefix'Test'.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\11.Prefix'Test'\obj\Debug\11.Prefix'Test'.pdb

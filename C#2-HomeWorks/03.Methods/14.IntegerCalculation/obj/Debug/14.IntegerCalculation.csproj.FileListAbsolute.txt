@@ -1,0 +1,6 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.pdb

@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\TextFiles\03.LineNumbers\bin\Debug\03.LineNumbers.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\03.LineNumbers\bin\Debug\03.LineNumbers.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\03.LineNumbers\bin\Debug\03.LineNumbers.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\03.LineNumbers\obj\Debug\03.LineNumbers.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\03.LineNumbers\obj\Debug\03.LineNumbers.pdb

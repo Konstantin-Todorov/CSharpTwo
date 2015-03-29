@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\16.DateDifference\bin\Debug\16.DateDifference.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\16.DateDifference\bin\Debug\16.DateDifference.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\16.DateDifference\bin\Debug\16.DateDifference.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\16.DateDifference\obj\Debug\16.DateDifference.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\16.DateDifference\obj\Debug\16.DateDifference.pdb

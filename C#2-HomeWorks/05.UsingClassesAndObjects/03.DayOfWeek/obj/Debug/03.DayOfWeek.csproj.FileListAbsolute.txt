@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

@@ -1,0 +1,6 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\09.SortingArray\bin\Debug\09.SortingArray.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\09.SortingArray\bin\Debug\09.SortingArray.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\09.SortingArray\bin\Debug\09.SortingArray.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\09.SortingArray\obj\Debug\09.SortingArray.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\09.SortingArray\obj\Debug\09.SortingArray.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Methods\09.SortingArray\obj\Debug\09.SortingArray.pdb

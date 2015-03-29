@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1.DecatCoding\bin\Debug\1.DecatCoding.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1.DecatCoding\bin\Debug\1.DecatCoding.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1.DecatCoding\bin\Debug\1.DecatCoding.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1.DecatCoding\obj\Debug\1.DecatCoding.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1.DecatCoding\obj\Debug\1.DecatCoding.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\1.DecatCoding\obj\Debug\1.DecatCoding.csprojResolveAssemblyReference.cache

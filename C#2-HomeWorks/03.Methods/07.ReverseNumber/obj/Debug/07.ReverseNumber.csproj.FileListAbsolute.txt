@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.pdb

@@ -1,0 +1,2 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config

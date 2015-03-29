@@ -1,0 +1,12 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\2.Crosswords\bin\Debug\2.Crosswords.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\2.Crosswords\bin\Debug\2.Crosswords.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\2.Crosswords\bin\Debug\2.Crosswords.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\2.Crosswords\obj\Debug\2.Crosswords.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\2.Crosswords\obj\Debug\2.Crosswords.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\8-Feb-2012\2.Crosswords\obj\Debug\2.Crosswords.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicBASIC-Crossword-Indicates-BombingCubids-AcademyTask\2.Crosswords\bin\Debug\2.Crosswords.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicBASIC-Crossword-Indicates-BombingCubids-AcademyTask\2.Crosswords\obj\Debug\2.Crosswords.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicBASIC-Crossword-Indicates-BombingCubids-AcademyTask\2.Crosswords\obj\Debug\2.Crosswords.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicBASIC-Crossword-Indicates-BombingCubids-AcademyTask\2.Crosswords\bin\Debug\2.Crosswords.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicBASIC-Crossword-Indicates-BombingCubids-AcademyTask\2.Crosswords\bin\Debug\2.Crosswords.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-Exams\TTT-BasicBASIC-Crossword-Indicates-BombingCubids-AcademyTask\2.Crosswords\obj\Debug\2.Crosswords.csprojResolveAssemblyReference.cache

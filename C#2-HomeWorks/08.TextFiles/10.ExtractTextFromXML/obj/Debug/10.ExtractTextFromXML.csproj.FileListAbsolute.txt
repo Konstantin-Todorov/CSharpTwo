@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\TextFiles\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.pdb

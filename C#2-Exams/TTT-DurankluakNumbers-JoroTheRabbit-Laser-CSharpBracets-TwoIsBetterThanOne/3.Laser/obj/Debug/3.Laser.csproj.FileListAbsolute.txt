@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\3.Laser\bin\Debug\3.Laser.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\3.Laser\bin\Debug\3.Laser.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\3.Laser\bin\Debug\3.Laser.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\3.Laser\obj\Debug\3.Laser.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\3.Laser\obj\Debug\3.Laser.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\5-Feb-2013\3.Laser\obj\Debug\3.Laser.pdb

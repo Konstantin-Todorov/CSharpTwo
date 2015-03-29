@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\2.Sudoku\bin\Debug\2.Sudoku.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\2.Sudoku\bin\Debug\2.Sudoku.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\2.Sudoku\bin\Debug\2.Sudoku.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\2.Sudoku\obj\Debug\2.Sudoku.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\2.Sudoku\obj\Debug\2.Sudoku.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\1-Feb-2012\2.Sudoku\obj\Debug\2.Sudoku.pdb

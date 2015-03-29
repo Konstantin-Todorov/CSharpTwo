@@ -1,0 +1,6 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.csprojResolveAssemblyReference.cache

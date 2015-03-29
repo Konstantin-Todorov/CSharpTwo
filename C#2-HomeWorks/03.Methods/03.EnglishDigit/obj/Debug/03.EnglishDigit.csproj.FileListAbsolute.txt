@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

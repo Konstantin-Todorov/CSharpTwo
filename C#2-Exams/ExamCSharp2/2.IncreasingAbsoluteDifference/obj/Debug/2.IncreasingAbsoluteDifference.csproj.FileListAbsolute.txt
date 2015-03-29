@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\2.IncreasingAbsoluteDifference\bin\Debug\2.IncreasingAbsoluteDifference.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\2.IncreasingAbsoluteDifference\bin\Debug\2.IncreasingAbsoluteDifference.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\2.IncreasingAbsoluteDifference\bin\Debug\2.IncreasingAbsoluteDifference.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\2.IncreasingAbsoluteDifference\obj\Debug\2.IncreasingAbsoluteDifference.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\2.IncreasingAbsoluteDifference\obj\Debug\2.IncreasingAbsoluteDifference.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\ExamCSharp2\2.IncreasingAbsoluteDifference\obj\Debug\2.IncreasingAbsoluteDifference.csprojResolveAssemblyReference.cache

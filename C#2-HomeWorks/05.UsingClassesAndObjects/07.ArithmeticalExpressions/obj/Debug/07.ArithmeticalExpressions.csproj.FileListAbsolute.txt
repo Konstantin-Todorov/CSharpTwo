@@ -1,0 +1,2 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.csprojResolveAssemblyReference.cache

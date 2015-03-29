@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\1.9gagNumbers\bin\Debug\1.9gagNumbers.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\1.9gagNumbers\bin\Debug\1.9gagNumbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\1.9gagNumbers\bin\Debug\1.9gagNumbers.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\1.9gagNumbers\obj\Debug\1.9gagNumbers.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\1.9gagNumbers\obj\Debug\1.9gagNumbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\11-Feb-2013\1.9gagNumbers\obj\Debug\1.9gagNumbers.pdb

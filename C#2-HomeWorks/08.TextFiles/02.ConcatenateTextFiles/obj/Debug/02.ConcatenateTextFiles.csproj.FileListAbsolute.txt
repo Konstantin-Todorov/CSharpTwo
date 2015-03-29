@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.pdb
