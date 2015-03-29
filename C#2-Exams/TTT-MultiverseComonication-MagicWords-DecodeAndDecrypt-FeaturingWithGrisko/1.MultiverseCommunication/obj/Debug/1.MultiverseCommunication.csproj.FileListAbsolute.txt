@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\1.MultiverseCommunication\bin\Debug\1.MultiverseCommunication.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\1.MultiverseCommunication\bin\Debug\1.MultiverseCommunication.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\1.MultiverseCommunication\bin\Debug\1.MultiverseCommunication.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\1.MultiverseCommunication\obj\Debug\1.MultiverseCommunication.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\1.MultiverseCommunication\obj\Debug\1.MultiverseCommunication.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\1.MultiverseCommunication\obj\Debug\1.MultiverseCommunication.pdb

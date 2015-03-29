@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

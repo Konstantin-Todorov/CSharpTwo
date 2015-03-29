@@ -1,0 +1,5 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\08.BinaryShorts\bin\Debug\08.BinaryShorts.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\08.BinaryShorts\bin\Debug\08.BinaryShorts.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\08.BinaryShorts\bin\Debug\08.BinaryShorts.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\08.BinaryShorts\obj\Debug\08.BinaryShorts.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\NumeralSystem\08.BinaryShorts\obj\Debug\08.BinaryShorts.pdb

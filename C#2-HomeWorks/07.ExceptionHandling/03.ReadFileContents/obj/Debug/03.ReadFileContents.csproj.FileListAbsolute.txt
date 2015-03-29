@@ -1,0 +1,1 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\ExceptionHandling\03.ReadFileContents\bin\Debug\03.ReadFileContents.exe.config

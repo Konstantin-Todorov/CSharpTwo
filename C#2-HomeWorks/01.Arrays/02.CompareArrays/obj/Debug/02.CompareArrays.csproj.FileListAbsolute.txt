@@ -1,0 +1,7 @@
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe.config
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.exe
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\C#2-HomeWorks\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.pdb

@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\22-01-2014\1.TRES4Numbers\bin\Debug\1.TRES4Numbers.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\22-01-2014\1.TRES4Numbers\bin\Debug\1.TRES4Numbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\22-01-2014\1.TRES4Numbers\bin\Debug\1.TRES4Numbers.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\22-01-2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\22-01-2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\22-01-2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.pdb

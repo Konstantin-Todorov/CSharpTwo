@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\2.MagicWords\bin\Debug\2.MagicWords.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\2.MagicWords\bin\Debug\2.MagicWords.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\2.MagicWords\bin\Debug\2.MagicWords.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\2.MagicWords\obj\Debug\2.MagicWords.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\CS Part 2 - 2013 14 Sept 2013 - Morning\2.MagicWords\obj\Debug\2.MagicWords.pdb

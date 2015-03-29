@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

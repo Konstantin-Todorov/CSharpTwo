@@ -1,0 +1,6 @@
+C:\Users\BULDOZER\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe.config
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.csprojResolveAssemblyReference.cache
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+C:\Users\BULDOZER\documents\visual studio 2013\Projects\StringsAndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

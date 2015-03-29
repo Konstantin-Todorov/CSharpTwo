@@ -1,0 +1,5 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\06.SumIntegers\bin\Debug\06.SumIntegers.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\06.SumIntegers\bin\Debug\06.SumIntegers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\06.SumIntegers\bin\Debug\06.SumIntegers.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\06.SumIntegers\obj\Debug\06.SumIntegers.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\UsingClassesAndObjects\06.SumIntegers\obj\Debug\06.SumIntegers.pdb

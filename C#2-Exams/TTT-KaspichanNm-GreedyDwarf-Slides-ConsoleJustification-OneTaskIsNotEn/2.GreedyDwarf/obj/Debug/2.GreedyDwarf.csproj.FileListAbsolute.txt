@@ -1,0 +1,6 @@
+c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe.config
+c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.pdb
+c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.csprojResolveAssemblyReference.cache
+c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.exe
+c:\users\buldozer\documents\visual studio 2013\Projects\4-Feb-2013\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.pdb
